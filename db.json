@@ -12,9 +12,9 @@
         { "name" : "Argentina", "rank" : 19 }
     ],
     "people": [
-        { "name" : "Renan",  "age" : 31 },
+        { "name" : "Renan", "age" : 31 },
         { "name" : "Thiago", "age" : 33 },
-        { "name" : "Yuri",   "age" : 29 }
+        { "name" : "Yuri", "age" : 29 }
     ]
 
 }
