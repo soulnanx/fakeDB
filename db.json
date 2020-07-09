@@ -4,7 +4,19 @@
         { "id" : 2, "title" : "Use a cabeça" },
         { "id" : 3, "title" : "Livro 3" },
         { "id" : 4, "title" : "84" }    
+    ],
+
+    "countries": [
+        { "name" : "Brasil", "rank" : 10 },
+        { "name" : "Portugal", "rank" : 11 },
+        { "name" : "Uruguai", "rank" : 12 },
+        { "name" : "Argentina", "rank" : 19 }
+    ],
+
+    "people": [
+        { "name" : "Renan", "age" : 31 },
+        { "name" : "Thiago", "age" : 33 },
+        { "name" : "Yuri", "age" : 29 },
     ]
 
 }
-
