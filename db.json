@@ -34,15 +34,15 @@
 		}
 	],
 	"users": [{
-			"name1": "Renan",
+			"name": "Renan",
 			"age": 31
 		},
 		{
-			"name1": "Thiago",
+			"name": "Thiago",
 			"age": 33
 		},
 		{
-			"name1": "Yuri",
+			"name": "Yuri",
 			"age": 29
 		}
 	],
